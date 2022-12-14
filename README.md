@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @korosh526
 - 👀 I’m interested in AI & robotics
-- 🌱 I’m currently learning Generative adversarial networks(GAN)
+- 🌱 I’m currently learning Image processing
 - 💞️ I’m looking to collaborate on AI research
 - 📫 How to reach me korosh.k2010@gmail.com
 
