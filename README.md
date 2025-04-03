@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm korosh or you can call me lawlivash(the one who suffers from lawlessness)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI developer from Iran</h3>
 
-- 🔭 I’m currently working on **VOIP AND CRM AND Sales data of my company**
+- 🔭 I’m currently working on **VOIP,CRM AND Sales data of my company**
 
 - 🌱 I’m currently learning **MLOps**
 
